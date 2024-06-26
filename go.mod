@@ -3,6 +3,7 @@ module github.com/stevemcquaid/gocloak/v13
 go 1.18
 
 require (
+	github.com/Nerzal/gocloak/v13 v13.9.0
 	github.com/go-resty/resty/v2 v2.7.0
 	github.com/golang-jwt/jwt/v5 v5.0.0
 	github.com/opentracing/opentracing-go v1.2.0
